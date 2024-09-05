@@ -1,7 +1,21 @@
 body {
     background-color: lightgreen;
+    margin: 12px;
+    padding: bottom;
+    overflow: visible;
 }
 h1 {
-    border-width: 8px;
+    border-width: 5px;
+    border-style: double;
     background-color :lightblue;
+    border-color: white;
+    text-align: center;
+}
+
+ul {
+font-family: "Courier New", monospace;
+font-weight: bold;
+letter-spacing: 2px;
+border-style: inset;
+list-style-type: "o"
 }
